@@ -24,12 +24,15 @@
     "company": "Accenture",
     "description": "Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology, security and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions – underpinned by the world’s largest delivery network – we work at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With more than 469,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives.",
     "logoName": "companyLogos/Accenture.png",
+    "Dep": "CS",
     "Dag": 12
+  
   },
   {
     "company": "Acconeer",
     "description": "Based on research from Lund University, Acconeer has created a unique radar solution that creates new opportunities for human interaction with technology. The radar sensor is based on pulsed coherent radar technology and combines extremely low power consumption with high accuracy. The unique characteristics of this radar sensor make it possible to identify materials and detect motion in advanced sensor applications. The small size, only 5x5 mm, and low power consumption are ideal for IoT. \nAcconeer is located at Ideon Gateway. We are a group of around 40 people, working close together in an agile manner, determined to create a major breakthrough in sensor technology.",
     "logoName": "companyLogos/Acconeer.png",
+     "Dep": "CS",
     "Dag": 13
   },
   {
@@ -72,24 +75,28 @@
     "company": "Axis Communications",
     "description": "Axis is the market leader in network video. Several of our successful innovations were initiated by students collaborating with us. We offer a number of student opportunities, such as thesis, summer and part time jobs. We don’t make up problems for you to solve – we give you real ones that can have a huge impact on our future groundbreaking products. Each year we recruit many new graduates straight from school. Together we innovate for a smarter, safer world increasing the security of millions of people worldwide. Come join us!",
     "logoName": "companyLogos/Axis.png",
+     "Dep": "BME, CS, EE",
     "Dag": 13
   },
   {
     "company": "Bosch",
     "description": "The Lund office is a development site working on software solutions for connecting Bosch devices to the internet in a secure way. Main focus is automotive devices to connect vehicles, but also on CE-devices like the next generation eBike-computer.",
     "logoName": "companyLogos/bosch.png",
+     "Dep": "EE, BME",
     "Dag": 12
   },
   {
     "company": "Capgemini",
     "description": "Capgemini is a world leading IT & Management Consultancy. We have some of the largest companies in the world as our clients and are located in all major cities in Sweden. We are interested in finding students that are interested in Technology and want to be a part of our graduate program. Ignite your career by applying to Capgemini.",
     "logoName": "companyLogos/Capgemini.png",
+     "Dep": "BME, EE",
     "Dag": 13
   },
   {
     "company": "CellaVision",
     "description": "At CellaVision we work with state-of-the-art methods in image analysis, artificial intelligence and automated microscopy. We´re an innovative, global medical technology company that develop its own leading systems for routine analysis of blood and other body fluids in healthcare services. Our products rationalize manual laboratory work, and secure and support effective workflows and skills development within and between hospitals. While our analyzers are used in labs all over the world, all innovation & engineering takes place at CellaVision headquarters in Lund. Join our business and take part in leading technical development that creates value in the healthcare services!",
     "logoName": "companyLogos/CellaVision.png",
+     "Dep": "CS, BME",
     "Dag": 13
   },
   {
@@ -108,6 +115,7 @@
     "company": "Cybercom",
     "description": "Cybercom is an innovative IT consulting company with 20 years of experience in IT and communications technology. Our consultants enable businesses and organisations to benefit from the opportunities of the connected world, to enhance their competitiveness or to achieve efficiency gains. Cybercom’s expertise spans the entire ecosystem of this communication – Connectivity – and our delivery is both local and global.",
     "logoName": "companyLogos/CybercomG.png",
+     "Dep": "CS, EE"
     "Dag": 13
   },
   {
